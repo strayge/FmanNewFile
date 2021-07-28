@@ -1,0 +1,4 @@
+[
+    { "caption": "-", "id": "new" },
+    { "caption": "New file", "command": "create_file" }
+]
