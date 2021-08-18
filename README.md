@@ -17,6 +17,6 @@ Open context menu and click at "New file".
 ![Showing the plugin in action](https://user-images.githubusercontent.com/1760091/129875753-d008f821-d6e1-46df-8a6b-1a5429c7aa6f.jpg)  
 
 ## Disclaimer
-The theme in the last screenshot was changed using my [Fman Alternative Colors](https://github.com/strayge/FmanAlternativeColors) plugin  
-The bottom menu was created using my [Fman Action Bar](https://github.com/strayge/FmanActionBar) plugin  
-The two dots (..) are presented using my [Fman Dot Entries](https://github.com/strayge/FmanDotEntries) plugin  
+The theme in the last screenshot was changed using [Fman Alternative Colors](https://github.com/strayge/FmanAlternativeColors) plugin  
+The bottom menu was created using [Fman Action Bar](https://github.com/strayge/FmanActionBar) plugin  
+The two dots (..) are presented using [Fman Dot Entries](https://github.com/strayge/FmanDotEntries) plugin  
