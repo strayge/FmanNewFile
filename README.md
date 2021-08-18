@@ -2,7 +2,7 @@
 Plugin for [fman.io](https://fman.io) to create new file via context menu.
 
 ## Installation
-[Ctrl+Shift+p -> Install Plugins -> FmanNewFile](https://fman.io/docs/installing-plugins)
+[Ctrl+Shift+P -> Install Plugins -> FmanNewFile](https://fman.io/docs/installing-plugins)
 
 ## Usage
 Open context menu and click at "New file".
